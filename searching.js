@@ -1,4 +1,4 @@
-let numbers = [ 3, 1, 9, 20, 41, 8, 56, 17, 2, 13, 26, 30, 4, 49 ];
+let numbers = [ 20, 9, 3, 41, 8, 1, 56 ];
 
 // STEP 1: Sort the "numbers" array from smallest number to largest
 //         number and ensure the "numbers" array is sorted afterwards
@@ -11,10 +11,9 @@ let numbers = [ 3, 1, 9, 20, 41, 8, 56, 17, 2, 13, 26, 30, 4, 49 ];
 
 
 
-// STEP 3: Ensure the algorithm gives expected results for both for
-//         numbers that are in the array and numbers that are not in
-//         the array
+// STEP 3: Ensure the algorithm gives expected results for numbers
+//         that are in the array and numbers that are not in the array
 //
-//         Example: 100 should not be found, but 49 should be found.
+//         Example: 100 should NOT be found, but 41 should be found.
 
 
